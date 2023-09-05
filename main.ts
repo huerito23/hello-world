@@ -1,8 +1,13 @@
+interface persona{
+    nombre:string,
+    apellido:string,
+    edad:number
+}
+
 class empleado{
 
-
-funciones:void(){
-  
-}
+  horario():void {
+    
+ }
   
 }
