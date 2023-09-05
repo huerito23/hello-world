@@ -1,0 +1,8 @@
+class empleado{
+
+
+funciones:void(){
+  
+}
+  
+}
